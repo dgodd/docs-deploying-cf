@@ -1,9 +1,16 @@
 ---
-title: Customizing the Cloud Foundry Deployment Manifest Stub for vSphere, vCloud Air, or vCloud Director
+title: Customizing the Cloud Foundry Deployment Manifest Stub for vSphere, vCloud
+  Air, or vCloud Director
 owner: Release Integration
+menu:
+  main:
+    Name: Customizing the Cloud Foundry Deployment Manifest Stub for vSphere, vCloud
+      Air, or vCloud Director
+    identifier: deploying-cf/common/vsphere-vcloud-cf-stub
+    parent: deploying-cf/common
 ---
 
-<strong></strong>
+
 
 This topic describes how to customize the Cloud Foundry deployment manifest stub for vSphere, vCloud Air, or vCloud Director. 
 

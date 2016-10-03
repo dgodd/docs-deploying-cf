@@ -1,9 +1,14 @@
 ---
 title: Security Group for Cloud Foundry on OpenStack
 owner: Release Integration
+menu:
+  main:
+    Name: Security Group for Cloud Foundry on OpenStack
+    identifier: deploying-cf/openstack/security_group
+    parent: deploying-cf/openstack
 ---
 
-<strong></strong>
+
 
 OpenStack offer Security Groups as a mechanism to restrict traffic to,
 from, and between servers.

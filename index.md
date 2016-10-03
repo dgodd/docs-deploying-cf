@@ -1,6 +1,11 @@
 ---
 title: Overview of Deploying Cloud Foundry
 owner: Release Integration
+menu:
+  main:
+    Name: Overview of Deploying Cloud Foundry
+    identifier: deploying-cf
+    parent: ''
 ---
 
 Cloud Foundry is designed to be configured, deployed, managed, scaled, and

@@ -1,9 +1,14 @@
 ---
 title: Troubleshooting Cloud Foundry on OpenStack
 owner: Release Integration
+menu:
+  main:
+    Name: Troubleshooting Cloud Foundry on OpenStack
+    identifier: deploying-cf/openstack/troubleshooting
+    parent: deploying-cf/openstack
 ---
 
-<strong></strong>
+
 
 This topic describes helpful tips to deploy Cloud Foundry on OpenStack.
 

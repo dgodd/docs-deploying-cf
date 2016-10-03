@@ -1,9 +1,14 @@
 ---
 title: Security Configuration for Consul
 owner: Release Integration
+menu:
+  main:
+    Name: Security Configuration for Consul
+    identifier: deploying-cf/common/consul-security
+    parent: deploying-cf/common
 ---
 
-<strong></strong>
+
 
 Cloud Foundry requires traffic to be secure between Consul agents by using
 encryption and mutual authentication. Follow the instructions below to configure

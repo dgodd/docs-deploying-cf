@@ -1,9 +1,14 @@
 ---
 title: Using OpenStack Swift as a Cloud Foundry Blobstore
 owner: Release Integration
+menu:
+  main:
+    Name: Using OpenStack Swift as a Cloud Foundry Blobstore
+    identifier: deploying-cf/openstack/using_swift_blobstore
+    parent: deploying-cf/openstack
 ---
 
-<strong></strong>
+
 
 ## Introduction ##
 

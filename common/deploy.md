@@ -1,9 +1,14 @@
 ---
 title: Deploying Cloud Foundry
 owner: Release Integration
+menu:
+  main:
+    Name: Deploying Cloud Foundry
+    identifier: deploying-cf/common/deploy
+    parent: deploying-cf/common
 ---
 
-<strong></strong>
+
 
 This topic describes the process for deploying Cloud Foundry using BOSH. 
 It assumes you have already targeted your BOSH Director, created a Cloud 

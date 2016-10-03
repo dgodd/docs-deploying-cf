@@ -1,9 +1,14 @@
 ---
 title: Preparing to Deploy on vSphere
 owner: Release Integration
+menu:
+  main:
+    Name: Preparing to Deploy on vSphere
+    identifier: deploying-cf/vsphere
+    parent: deploying-cf
 ---
 
-<strong></strong>
+
 
 ## Step 1: Deploy BOSH ##
 

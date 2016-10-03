@@ -1,9 +1,14 @@
 ---
 title: Create a Deployment Manifest for Cloud Foundry on BOSH-Lite
 owner: Release Integration
+menu:
+  main:
+    Name: Create a Deployment Manifest for Cloud Foundry on BOSH-Lite
+    identifier: deploying-cf/boshlite/create_a_manifest
+    parent: deploying-cf/boshlite
 ---
 
-<strong></strong>
+
 
 This topic describes how to create the Cloud Foundry deployment manifest for BOSH-Lite. It assumes you have already [installed BOSH-Lite](https://github.com/cloudfoundry/bosh-lite/blob/master/README.md#install-bosh-lite) and the [BOSH CLI](https://bosh.io/docs/bosh-cli.html).
 

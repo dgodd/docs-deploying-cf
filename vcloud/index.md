@@ -1,9 +1,14 @@
 ---
 title: Preparing to Deploy on vCloud Air or vCloud Director
 owner: Release Integration
+menu:
+  main:
+    Name: Preparing to Deploy on vCloud Air or vCloud Director
+    identifier: deploying-cf/vcloud
+    parent: deploying-cf
 ---
 
-<strong></strong>
+
 
 ## Step 1: Environment Setup ##
 

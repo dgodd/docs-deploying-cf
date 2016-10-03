@@ -1,9 +1,14 @@
 ---
 title: Cloud Controller Blobstore Configuration
 owner: CAPI
+menu:
+  main:
+    Name: Cloud Controller Blobstore Configuration
+    identifier: deploying-cf/common/cc-blobstore-config
+    parent: deploying-cf/common
 ---
 
-<strong></strong>
+
 
 This topic describes the various options for configuring a blobstore for the Cloud Controller.
 

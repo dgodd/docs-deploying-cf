@@ -1,6 +1,11 @@
 ---
 title: Bootstrapping an AWS Environment for Cloud Foundry
 owner: Release Integration
+menu:
+  main:
+    Name: Bootstrapping an AWS Environment for Cloud Foundry
+    identifier: deploying-cf/aws/setup_aws
+    parent: deploying-cf/aws
 ---
 
 <style>
@@ -14,7 +19,7 @@ owner: Release Integration
     }
 </style>
 
-<strong></strong>
+
 
 This topic describes how to set up an environment for Cloud Foundry on Amazon Web Services (AWS) using `bosh aws create`. This command-line bootstrap tool creates all of the structures that underlie your deployment.
 

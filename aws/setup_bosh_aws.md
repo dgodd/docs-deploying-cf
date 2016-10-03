@@ -1,6 +1,11 @@
 ---
 title: Deploying BOSH on AWS
 owner: Release Integration
+menu:
+  main:
+    Name: Deploying BOSH on AWS
+    identifier: deploying-cf/aws/setup_bosh_aws
+    parent: deploying-cf/aws
 ---
 
 In the [previous step](./setup_aws.html) you prepared an AWS environment for BOSH. This document shows how to deploy BOSH into your AWS environment by creating a deployment manifest and passing it to `bosh-init`.

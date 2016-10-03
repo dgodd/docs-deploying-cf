@@ -1,9 +1,14 @@
 ---
 title: Validate your OpenStack Instance
 owner: Release Integration
+menu:
+  main:
+    Name: Validate your OpenStack Instance
+    identifier: deploying-cf/openstack/validate_openstack
+    parent: deploying-cf/openstack
 ---
 
-<strong></strong>
+
 
 This topic helps you validate your target OpenStack in preparation for installing BOSH and deploying Cloud Foundry.
 

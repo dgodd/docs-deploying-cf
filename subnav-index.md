@@ -1,6 +1,11 @@
 ---
 title: Subnav Index
 owner: CF Docs
+menu:
+  main:
+    Name: Subnav Index
+    identifier: deploying-cf/subnav-index
+    parent: deploying-cf
 ---
 
 Subnav Index:

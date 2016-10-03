@@ -1,9 +1,14 @@
 ---
 title: Log Drain Blacklist Configuration
 owner: Logging and Metrics
+menu:
+  main:
+    Name: Log Drain Blacklist Configuration
+    identifier: deploying-cf/common/log_drain_blacklists
+    parent: deploying-cf/common
 ---
 
-<strong></strong>
+
 
 The `doppler` component allows application log drains. An application developer
 deploying their app to Cloud Foundry can bind a drain to a log analysis service.

@@ -1,9 +1,14 @@
 ---
 title: Set up vCloud Air or vCloud Virtual Data Center Resources
 owner: Release Integration
+menu:
+  main:
+    Name: Set up vCloud Air or vCloud Virtual Data Center Resources
+    identifier: deploying-cf/vcloud/setup_vcloud
+    parent: deploying-cf/vcloud
 ---
 
-<strong></strong>
+
 
 This topic describes getting started with open source Cloud Foundry
 on vCloud Air or on a supported vCloud Director (vCD) deployment (5.1+).

@@ -1,9 +1,14 @@
 ---
 title: Customizing the Cloud Foundry Deployment Manifest for OpenStack
 owner: Release Integration
+menu:
+  main:
+    Name: Customizing the Cloud Foundry Deployment Manifest for OpenStack
+    identifier: deploying-cf/openstack/cf-stub
+    parent: deploying-cf/openstack
 ---
 
-<strong></strong>
+
 
 This topic describes how to customize the Cloud Foundry deployment manifest 
 for OpenStack.

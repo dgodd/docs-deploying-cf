@@ -1,9 +1,14 @@
 ---
 title: Preparing to Deploy on on BOSH-Lite
 owner: Release Integration
+menu:
+  main:
+    Name: Preparing to Deploy on on BOSH-Lite
+    identifier: deploying-cf/boshlite
+    parent: deploying-cf
 ---
 
-<strong></strong>
+
 
 ## Step 1: Setup a BOSH-Lite Vagrant VM ##
 

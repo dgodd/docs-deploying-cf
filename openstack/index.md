@@ -1,9 +1,14 @@
 ---
 title: Preparing to Deploy on OpenStack
 owner: Release Integration
+menu:
+  main:
+    Name: Preparing to Deploy on OpenStack
+    identifier: deploying-cf/openstack
+    parent: deploying-cf
 ---
 
-<strong></strong>
+
 
 ## Step 1: Environment Setup ##
 
