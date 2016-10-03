@@ -3,7 +3,7 @@ title: Using OpenStack Swift as a Cloud Foundry Blobstore
 owner: Release Integration
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 ## Introduction ##
 

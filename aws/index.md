@@ -3,7 +3,7 @@ title: Preparing to Deploy on Amazon Web Services
 owner: Release Integration
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 The following steps document an example procedure for deploying Cloud Foundry on AWS. The process includes several steps that may be expensive and time-consuming, such as provisioning AWS Relational Database Service (RDS)
 instances. For a simpler deployment, refer to the

@@ -3,7 +3,7 @@ title: Log Drain Blacklist Configuration
 owner: Logging and Metrics
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 The `doppler` component allows application log drains. An application developer
 deploying their app to Cloud Foundry can bind a drain to a log analysis service.

@@ -3,7 +3,7 @@ title: Security Group for Cloud Foundry on OpenStack
 owner: Release Integration
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 OpenStack offer Security Groups as a mechanism to restrict traffic to,
 from, and between servers.

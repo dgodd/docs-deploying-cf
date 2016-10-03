@@ -3,7 +3,7 @@ title: Deploying Cloud Foundry
 owner: Release Integration
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 This topic describes the process for deploying Cloud Foundry using BOSH. 
 It assumes you have already targeted your BOSH Director, created a Cloud 

@@ -3,7 +3,7 @@ title: Customizing the Cloud Foundry Deployment Manifest Stub for vSphere, vClou
 owner: Release Integration
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 This topic describes how to customize the Cloud Foundry deployment manifest stub for vSphere, vCloud Air, or vCloud Director. 
 

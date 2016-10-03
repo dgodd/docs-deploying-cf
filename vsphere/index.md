@@ -3,7 +3,7 @@ title: Preparing to Deploy on vSphere
 owner: Release Integration
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 ## Step 1: Deploy BOSH ##
 

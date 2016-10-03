@@ -3,7 +3,7 @@ title: Set up vCloud Air or vCloud Virtual Data Center Resources
 owner: Release Integration
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 This topic describes getting started with open source Cloud Foundry
 on vCloud Air or on a supported vCloud Director (vCD) deployment (5.1+).

@@ -3,7 +3,7 @@ title: Customizing the Cloud Foundry Deployment Manifest for AWS
 owner: Release Integration
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 This topic describes how to create the Cloud Foundry deployment manifest for Amazon Web Services (AWS). Before creating a manifest, you must have already [set up an environment](setup_aws.html) for Cloud Foundry on AWS and [deployed BOSH](setup_bosh_aws.html) on AWS.
 

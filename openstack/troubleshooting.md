@@ -3,7 +3,7 @@ title: Troubleshooting Cloud Foundry on OpenStack
 owner: Release Integration
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 This topic describes helpful tips to deploy Cloud Foundry on OpenStack.
 

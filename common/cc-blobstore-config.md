@@ -3,7 +3,7 @@ title: Cloud Controller Blobstore Configuration
 owner: CAPI
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 This topic describes the various options for configuring a blobstore for the Cloud Controller.
 

@@ -3,7 +3,7 @@ title: Validate your OpenStack Instance
 owner: Release Integration
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 This topic helps you validate your target OpenStack in preparation for installing BOSH and deploying Cloud Foundry.
 

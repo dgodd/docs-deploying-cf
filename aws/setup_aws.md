@@ -14,7 +14,7 @@ owner: Release Integration
     }
 </style>
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 This topic describes how to set up an environment for Cloud Foundry on Amazon Web Services (AWS) using `bosh aws create`. This command-line bootstrap tool creates all of the structures that underlie your deployment.
 

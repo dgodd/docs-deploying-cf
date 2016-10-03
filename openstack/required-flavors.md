@@ -3,7 +3,7 @@ title: Required Instance Flavors for Cloud Foundry on OpenStack
 owner: Release Integration
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 Confirm that your OpenStack instance includes four flavors that correspond
 with the OpenStack default flavor names `m1.small`, `m1.medium`, `m1.large`, and

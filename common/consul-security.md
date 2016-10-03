@@ -3,7 +3,7 @@ title: Security Configuration for Consul
 owner: Release Integration
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 Cloud Foundry requires traffic to be secure between Consul agents by using
 encryption and mutual authentication. Follow the instructions below to configure

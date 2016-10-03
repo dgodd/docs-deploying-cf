@@ -3,7 +3,7 @@ title: Preparing to Deploy on on BOSH-Lite
 owner: Release Integration
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 ## Step 1: Setup a BOSH-Lite Vagrant VM ##
 
